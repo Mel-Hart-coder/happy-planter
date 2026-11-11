@@ -14,9 +14,9 @@
 * Procreate
 
 ###To Do List
-[x] put in background
-[x] create button
-[ ] To do List creation
-[ ] Saving to do list
-[ ] Seed Animation
-[ ] plant growing when completing a task 
+- [x] put in background
+- [x] create button
+- [ ] To do List creation
+- [ ] Saving to do list
+- [ ] Seed Animation
+- [ ] plant growing when completing a task 
