@@ -4,7 +4,6 @@
 
 ### How it works
 * Create a to do list
-* Name your seed
 * Plant grows every time you complete a task 
 
 
